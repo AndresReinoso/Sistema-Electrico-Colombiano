@@ -7,7 +7,7 @@ El análisis utiliza datos oficiales e infraestructurales (UPME, XM y SUI) proce
 
 <br/>
 
-## Análisis del Sistema de Generación en Colombia : 
+## 1. Análisis del Sistema de Generación en Colombia : 
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/SIN.png)
 
@@ -58,7 +58,10 @@ Al aislar la capacidad incorporada en los últimos años, la geografía de la ge
 
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](Análisis%20Sistema%20de%20Generación%20en%20Colombia.ipynb)
 
-Ahora, parte de las preguntas resultantes del análisis presentado en esté notebook, incluía revisar si efectivamente los nuevos proyectos en construcción o adjudicación mantenían este fuerte componente de generación solar. Para resolver este interrogante, revisamos rápidamente la documentación existente, especificamente el informe registros activos de proyectos de generación eléctrica, disponible en la UPME. Este se descargo a la fecha de corte de Agosto 30/2026, pero es un archivo de actualización mensual, por lo cual debe consultarse continuamente. 
+## 2. Registro Activos Proyectos de Generación: 
+
+
+Ahora, parte de las preguntas resultantes del análisis presentado en el notebook anterior, incluía revisar si efectivamente los nuevos proyectos en construcción o adjudicación mantenían este fuerte componente de generación solar. Para resolver este interrogante, revisamos rápidamente la documentación existente, especificamente el informe registros activos de proyectos de generación eléctrica, disponible en la UPME. Este se descargo a la fecha de corte de Agosto 30/2026, pero es un archivo de actualización mensual, por lo cual debe consultarse continuamente. 
 
 Este archivo contiene datos valiosos de los proyectos en construcción, su ubicación y la tecnología y recurso empleados. 
 
