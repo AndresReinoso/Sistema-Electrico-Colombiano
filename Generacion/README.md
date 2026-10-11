@@ -58,4 +58,21 @@ Al aislar la capacidad incorporada en los últimos años, la geografía de la ge
 
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](Análisis%20Sistema%20de%20Generación%20en%20Colombia.ipynb)
 
+Ahora, parte de las preguntas resultantes del análisis presentado en esté notebook, incluía revisar si efectivamente los nuevos proyectos en construcción o adjudicación mantenían este fuerte componente de generación solar. Para resolver este interrogante, revisamos rápidamente la documentación existente, especificamente el informe registros activos de proyectos de generación eléctrica, disponible en la UPME. Este se descargo a la fecha de corte de Agosto 30/2026, pero es un archivo de actualización mensual, por lo cual debe consultarse continuamente. 
+
+Este archivo contiene datos valiosos de los proyectos en construcción, su ubicación y la tecnología y recurso empleados. 
+
+Con base en el mismo, se identifica que la tendencia se mantiene, el pipeline de proyectos en construcción muestra la predominancia de la tecnología Solar, y sorpresivamente la inclusión de proyectos Eólicos, y algunos proyectos hídricos a filo de agua.
+
+![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/Pipeline%20Proyectos%202027-2033.png)
+
+El SIN espera integrar cerca de 2600MW adicionales en 2029, registrando para este periodo un nuevo record de construcción de plantas en el histórico año a año.
+
+![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/Capacidad%20en%20Construccion.png)
+
+Al analizar la capacidad adicional, también notamos que se mantiene la tendencia descentralizadora, en el periodo (2027-2033) los grandes participantes son Cordoba, Cesar y Huila, aportando cerca del 50% de la nueva producción.
+
+![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/MapaNueva%20Capacidad%20Generacion.png)
+
+Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
 
