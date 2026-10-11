@@ -20,6 +20,7 @@ El SIN ha superado los 25,109 MW de Capacidad Efectiva Neta. Históricamente sus
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Distribuci%C3%B3n%20por%20tecnolog%C3%ADa.png)
 
 <br/>
+
 La matriz eléctrica colombiana mantuvo un crecimiento paulatino dominado casi exclusivamente por las grandes centrales hídricas y térmicas durante más de cinco décadas. No obstante, a partir de la presente década, la incursión de tecnologías renovables no convencionales (FNCER) comienza a desplazar marginalmente el perfil de expansión acumulada.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Incremento%20Proyectos.png)
@@ -29,6 +30,7 @@ Entre 1900 y 2020 la incorporación de plantas ocurría de forma discreta y espa
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Capacidad%20Neta%20por%20a%C3%B1o.png)
 
 <br/>
+
 A pesar del volumen alto de proyectos recientes, la capacidad neta agregada anualmente muestra variaciones drásticas. El pico alcanzado en 2022 representa el punto de inflexión más alto de entrada en operación de infraestructura de gran escala en la historia reciente del país.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Nuevos%20proyectosS.png)
