@@ -20,7 +20,7 @@ El parque de generación nacional ha experimentado una expansión acelerada, ref
 <br/>
 Sin embargo, el crecimiento de la capacidad no es el único indicador de transformación; el SIN atraviesa una transición estructural caracterizada por la proliferación de proyectos solares fotovoltaicos de menor escala —en contraste con los grandes desarrollos hidroeléctricos tradicionales—, lo que genera una amplia fragmentación espacial frente a los polos de generación clásicos.
 
-![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Nuevos%20proyectosS.png)}
+![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Nuevos%20proyectosS.png)
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Declive%20Capacidad%20por%20planta.png)
 <br/>
 Actualmente, el recurso solar fotovoltaico constituye el principal motor de nuevos desarrollos, los cuales se encuentran concentrados de manera significativa en la Región Caribe.
