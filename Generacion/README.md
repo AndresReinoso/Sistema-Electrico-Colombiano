@@ -16,7 +16,7 @@ Este análisis exploratorio examina la composición del parque de generación el
 El parque de generación nacional ha experimentado una expansión acelerada, reflejada tanto en la incorporación de nuevos proyectos como en el incremento sostenido de la capacidad instalada neta.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Incremento%20Proyectos.png)
-![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Capacidad%20Neta%20por%20a%C3%B1o.png)}
+![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Capacidad%20Neta%20por%20a%C3%B1o.png)
 
 Sin embargo, el crecimiento de la capacidad no es el único indicador de transformación; el SIN atraviesa una transición estructural caracterizada por la proliferación de proyectos solares fotovoltaicos de menor escala —en contraste con los grandes desarrollos hidroeléctricos tradicionales—, lo que genera una amplia fragmentación espacial frente a los polos de generación clásicos.
 
