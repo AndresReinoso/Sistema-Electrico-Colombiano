@@ -2,36 +2,31 @@
 
 ![title-banner](SIN.png)
 
-En este repositorio encontrarás una revisión sencilla de la estructura del sistema de generación colombiano, los proyectos actuales y los proyectos en etapa de construcción, se desarrolló a partir de información disponible en fuentes gubernamentales que permitan generar trazabilidad sobre el origen y su momento de extracción. Esta compuesto de notebooks que permiten identificar las transformaciones y particularidades del SIN.
-
+Este repositorio presenta un análisis estructurado de la evolución y el estado actual del parque de generación del Sistema Interconectado Nacional (SIN) de Colombia, incluyendo los proyectos en operación y aquellos en etapa de construcción. El desarrollo se fundamenta en información oficial de fuentes gubernamentales (tales como la UPME, XM y SUI), garantizando la trazabilidad sobre el origen de los datos y sus marcas temporales de extracción. El repositorio se compone de cuadernos (notebooks) diseñados para identificar las transformaciones tecnológicas, espaciales y operativas del sistema eléctrico colombiano.
 <hr/>
 
 <br/>
 
 ## Análisis del Sistema de Generación en Colombia : 
 
-Este análisis exploratorio examina la composición del sistema de generación eléctrica nacional en Colombia a partir de los registros geoespaciales de la UPME. El SIN tiene actualmente supero la capacidad Efectiva Neta de 25109MW. Es un sistema apoyado principalmente en recurso hídrico y térmico (usualmente de respaldo). 
+Este análisis exploratorio examina la composición del parque de generación eléctrica nacional a partir de los registros geoespaciales y operativos de la UPME. Actualmente, el SIN ha superado los 25,109 MW de Capacidad Efectiva Neta, un sistema sustentado históricamente en una matriz predominantemente hídrica, complementada por generación térmica con función de respaldo.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Distribuci%C3%B3n%20por%20tecnolog%C3%ADa.png)
 
-El parque de generación viene creciendo aceleradamente en términos nuevos proyectos y capacidad instalada neta.
+El parque de generación nacional ha experimentado una expansión acelerada, reflejada tanto en la incorporación de nuevos proyectos como en el incremento sostenido de la capacidad instalada neta.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Incremento%20Proyectos.png)
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Capacidad%20Neta%20por%20a%C3%B1o.png)}
 
-Sin embargo, el crecimiento del parque de generación colombiano no es el único cambio significativo, el SIN atraviesa una importante transición marcada por el incremento de proyectos nuevos de generación Solar generalmente de escala inferior a los desarrollos históricos de grandes hidroelectricas, y con amplia fragmentación de la generación en relación con los polos de generación tradicionales.
+Sin embargo, el crecimiento de la capacidad no es el único indicador de transformación; el SIN atraviesa una transición estructural caracterizada por la proliferación de proyectos solares fotovoltaicos de menor escala —en contraste con los grandes desarrollos hidroeléctricos tradicionales—, lo que genera una amplia fragmentación espacial frente a los polos de generación clásicos.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Nuevos%20proyectosS.png)}
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Declive%20Capacidad%20por%20planta.png)}
 
-El recurso solar es actualmente el impulsor del desarrollo de nuevos proyectos concentrados mayoritariamente en la región caribe. 
+Actualmente, el recurso solar fotovoltaico constituye el principal motor de nuevos desarrollos, los cuales se encuentran concentrados de manera significativa en la Región Caribe.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Generacion%20por%20departamento.png)}
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Lideres%20en%20Proyectos%20Nuevos.png)}
-
-
-
-
 
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](Análisis%20Sistema%20de%20Generación%20en%20Colombia.ipynb)
 
