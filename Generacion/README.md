@@ -39,9 +39,12 @@ Existe una tendencia clara de fragmentación del parque de generación: mientras
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Generacion%20por%20departamento.png)
 Antioquia, Cundinamarca y Atlántico concentran casi el 50% de la Capacidad Efectiva Neta del país. Antioquia mantiene un liderazgo histórico indiscutible debido al aprovechamiento hídrico de sus cuencas.
+<br/>
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Lideres%20en%20Proyectos%20Nuevos.png)
+
 Al aislar la capacidad incorporada en los últimos años, la geografía de la generación cambia radicalmente: Atlántico, Bolívar y Cesar lideran la nueva capacidad, impulsados por elevados niveles de irradiancia solar. Departamentos tradicionalmente hidroeléctricos como Antioquia muestran aportes marginales en la nueva capacidad neta instalada durante este período.
 <br/>
+
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](Análisis%20Sistema%20de%20Generación%20en%20Colombia.ipynb)
 
 
