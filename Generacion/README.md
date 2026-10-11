@@ -40,8 +40,11 @@ Existe una tendencia clara de fragmentación del parque de generación: mientras
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Generacion%20por%20departamento.png)
 
 <br/>
+
 Antioquia, Cundinamarca y Atlántico concentran casi el 50% de la Capacidad Efectiva Neta del país. Antioquia mantiene un liderazgo histórico indiscutible debido al aprovechamiento hídrico de sus cuencas.
+
 <br/>
+
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Lideres%20en%20Proyectos%20Nuevos.png)
 
