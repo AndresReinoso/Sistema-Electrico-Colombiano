@@ -1,7 +1,5 @@
 # El Sistema de Generación Colombiano: Transición y Descentralización del SIN
 
-![title-banner](SIN.png)
-
 Este repositorio presenta un análisis exploratorio y estructurado sobre la evolución, capacidad actual y dinámica de expansión del parque de generación del Sistema Interconectado Nacional (SIN) de Colombia, abarcando proyectos en operación y en etapa de construcción.
 
 El análisis utiliza datos oficiales e infraestructurales (UPME, XM y SUI) procesados mediante cuadernos de Python (notebooks), garantizando trazabilidad de origen y marcas temporales de extracción para evaluar las transformaciones tecnológicas y territoriales de la matriz eléctrica.
@@ -10,6 +8,8 @@ El análisis utiliza datos oficiales e infraestructurales (UPME, XM y SUI) proce
 <br/>
 
 ## Análisis del Sistema de Generación en Colombia : 
+
+![title-banner](SIN.png)
 
 La distribución espacial del SIN refleja un marcado contraste geográfico: la generación hidroeléctrica sostiene el suministro en el interior andino aprovechando la orografía nacional, mientras que los desarrollos solares fotovoltaicos e infraestructura térmica de respaldo presentan un clúster de alta densidad en la Costa Caribe. Esta configuración evidencia el inicio de una transición energética descentralizada fuera del eje andino tradicional.
 
