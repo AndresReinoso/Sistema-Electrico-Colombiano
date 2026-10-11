@@ -11,13 +11,14 @@ El análisis utiliza datos oficiales e infraestructurales (UPME, XM y SUI) proce
 
 ![title-banner](SIN.png)
 
-La distribución espacial del SIN refleja un marcado contraste geográfico: la generación hidroeléctrica sostiene el suministro en el interior andino aprovechando la orografía nacional, mientras que los desarrollos solares fotovoltaicos e infraestructura térmica de respaldo presentan un clúster de alta densidad en la Costa Caribe. Esta configuración evidencia el inicio de una transición energética descentralizada fuera del eje andino tradicional.
+La distribución espacial del SIN refleja un marcado contraste geográfico: la generación hidroeléctrica sostiene el suministro en el interior andino, mientras que los desarrollos solares fotovoltaicos e infraestructura térmica de respaldo presentan un clúster de alta densidad en la Costa Caribe. Esta configuración evidencia el inicio de una transición energética descentralizada fuera del eje andino tradicional.
 
 ## 1. Evolución Histórica de la Matriz y Capacidad Instalada
 El SIN ha superado los 25,109 MW de Capacidad Efectiva Neta. Históricamente sustentado en hidroelectricidad y respaldo térmico, el parque muestra hoy una creciente diversificación tecnológica.
 
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Distribuci%C3%B3n%20por%20tecnolog%C3%ADa.png)
+
 <br/>
 La matriz eléctrica colombiana mantuvo un crecimiento paulatino dominado casi exclusivamente por las grandes centrales hídricas y térmicas durante más de cinco décadas. No obstante, a partir de la presente década, la incursión de tecnologías renovables no convencionales (FNCER) comienza a desplazar marginalmente el perfil de expansión acumulada.
 
@@ -26,6 +27,7 @@ La matriz eléctrica colombiana mantuvo un crecimiento paulatino dominado casi e
 Entre 1900 y 2020 la incorporación de plantas ocurría de forma discreta y espaciada en el tiempo. Desde 2021, la cantidad de proyectos que entran en operación anualmente se ha multiplicado exponencialmente, registrando un récord histórico en el número absoluto de activaciones durante el período reciente.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Capacidad%20Neta%20por%20a%C3%B1o.png)
+
 <br/>
 A pesar del volumen alto de proyectos recientes, la capacidad neta agregada anualmente muestra variaciones drásticas. El pico alcanzado en 2022 representa el punto de inflexión más alto de entrada en operación de infraestructura de gran escala en la historia reciente del país.
 
@@ -35,6 +37,7 @@ Mientras que los ciclos de expansión previos (1980–2015) dependían de altern
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Declive%20Capacidad%20por%20planta.png)
 <br/>
+
 Existe una tendencia clara de fragmentación del parque de generación: mientras el siglo XX se caracterizó por megaproyectos individuales de cientos o miles de megavatios, los nuevos desarrollos corresponden a parques solares o autogeneradores de escala pequeña y mediana (menores a 20-50 MW promedio). Esto introduce nuevos retos operativos para el Centro Nacional de Despacho (CND) en términos de gestionabilidad y control de frecuencia.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Generacion%20por%20departamento.png)
