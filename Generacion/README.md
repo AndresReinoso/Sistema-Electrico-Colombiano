@@ -62,10 +62,9 @@ Ahora, parte de las preguntas resultantes del análisis presentado en esté note
 
 Este archivo contiene datos valiosos de los proyectos en construcción, su ubicación y la tecnología y recurso empleados. 
 
-Con base en el mismo, se identifica que la tendencia se mantiene, el pipeline de proyectos en construcción muestra la predominancia de la tecnología Solar, y sorpresivamente la inclusión de proyectos Eólicos, y algunos proyectos hídricos a filo de agua.
-
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/Pipeline%20Proyectos%202027-2033.png)
 
+Con base en el mismo, se identifica que la tendencia se mantiene, el pipeline de proyectos en construcción muestra la predominancia de la tecnología Solar, y sorpresivamente la inclusión de proyectos Eólicos, y algunos proyectos hídricos a filo de agua.
 El SIN espera integrar cerca de 2600MW adicionales en 2029, registrando para este periodo un nuevo record de construcción de plantas en el histórico año a año.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Contenido/Capacidad%20en%20Construccion.png)
@@ -76,3 +75,4 @@ Al analizar la capacidad adicional, también notamos que se mantiene la tendenci
 
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
 
+> **Nota:** Para finalizar, es importante señalar que algunas de las funcionalidades interactivas (particularmente en los mapas generados) pueden no renderizarse de forma directa en la visualización estática del repositorio. Sin embargo, puedes clonar o descargar el repositorio, y ejecutar localmente el *notebook* para garantizar su correcta visualización interactiva.
