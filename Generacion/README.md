@@ -75,4 +75,5 @@ Al analizar la capacidad adicional, también notamos que se mantiene la tendenci
 
 Puedes revisar el desarrollo completo en el siguiente enlace: [Ver Notebook de Análisis](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Registro%20Activos%20Proyectos%20Generaci%C3%B3n%20-%20Ago%202026.ipynb)
 
+
 > **Nota:** Para finalizar, es importante señalar que algunas de las funcionalidades interactivas (particularmente en los mapas generados) pueden no renderizarse de forma directa en la visualización estática del repositorio. Sin embargo, puedes clonar o descargar el repositorio, y ejecutar localmente el *notebook* para garantizar su correcta visualización interactiva.
