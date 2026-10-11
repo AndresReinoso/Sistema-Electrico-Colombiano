@@ -38,6 +38,7 @@ Mientras que los ciclos de expansión previos (1980–2015) dependían de altern
 Existe una tendencia clara de fragmentación del parque de generación: mientras el siglo XX se caracterizó por megaproyectos individuales de cientos o miles de megavatios, los nuevos desarrollos corresponden a parques solares o autogeneradores de escala pequeña y mediana (menores a 20-50 MW promedio). Esto introduce nuevos retos operativos para el Centro Nacional de Despacho (CND) en términos de gestionabilidad y control de frecuencia.
 
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Generacion%20por%20departamento.png)
+<br/>
 Antioquia, Cundinamarca y Atlántico concentran casi el 50% de la Capacidad Efectiva Neta del país. Antioquia mantiene un liderazgo histórico indiscutible debido al aprovechamiento hídrico de sus cuencas.
 <br/>
 ![title-banner](https://github.com/AndresReinoso/Sistema-Electrico-Colombiano/blob/main/Generacion/Lideres%20en%20Proyectos%20Nuevos.png)
