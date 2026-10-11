@@ -1,4 +1,4 @@
-# El Sistema de Generación Colombiano: Transición y Descentralización del SIN
+# Análisis del Sistema de Generación Eléctrica en Colombia (SIN) | Transición Energética y FNCER
 
 Este repositorio presenta un análisis exploratorio y estructurado sobre la evolución, capacidad actual y dinámica de expansión del parque de generación del Sistema Interconectado Nacional (SIN) de Colombia, abarcando proyectos en operación y en etapa de construcción.
 
